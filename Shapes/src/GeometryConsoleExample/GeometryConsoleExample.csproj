@@ -7,6 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shapes\Geometry.csproj" />
+    <ProjectReference Include="..\Geometry\Geometry.csproj" />
   </ItemGroup>
 </Project>

@@ -20,7 +20,7 @@ namespace Geometry.Shapes
             if (!(thirdSide > Double.Epsilon))
                 throw new ArgumentOutOfRangeException(nameof(thirdSide));
             if (firstSide + secondSide + thirdSide < Math.Max(firstSide, Math.Max(secondSide, thirdSide)) * 2)
-                throw new ArgumentException("Lesser sides sum must be greater then bigger side");
+                throw new ArgumentException("Lesser sides sum must be greater than bigger side");
 
             return new Triangle(firstSide, secondSide, thirdSide);
         }
