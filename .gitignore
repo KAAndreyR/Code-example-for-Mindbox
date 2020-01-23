@@ -4,5 +4,5 @@ Shapes/src/GeometryConsoleExample/bin/*
 Shapes/src/GeometryConsoleExample/obj/*
 Shapes/src/Geometry/bin/*
 Shapes/src/Geometry/obj/*
-Shapes/tests/ShapesTest/bin/*
-Shapes/tests/ShapesTest/obj/*
+Shapes/tests/GeometryTest/bin/*
+Shapes/tests/GeometryTest/obj/*
