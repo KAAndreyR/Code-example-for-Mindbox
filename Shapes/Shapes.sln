@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "src\Shapes\Geometry.csproj", "{05B1780B-57AF-4DEC-A54C-4E2C9FDBDA55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "src\Geometry\Geometry.csproj", "{05B1780B-57AF-4DEC-A54C-4E2C9FDBDA55}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryTest", "tests\ShapesTest\GeometryTest.csproj", "{9659FF39-7104-4DCC-BA89-FA874D94CACC}"
 EndProject
