@@ -1,0 +1,8 @@
+
+Shapes/.vs/*
+Shapes/src/GeometryConsoleExample/bin/*
+Shapes/src/GeometryConsoleExample/obj/*
+Shapes/src/Shapes/bin/*
+Shapes/src/Shapes/obj/*
+Shapes/tests/ShapesTest/bin/*
+Shapes/tests/ShapesTest/obj/*
